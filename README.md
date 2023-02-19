@@ -28,6 +28,9 @@ What picture do you want?
 1. Car
 2. House
 3. Dog
+4. Forest
+5. Mountain
+6. Ocean
 Number of choice: 
 ```
 Now your client is running. After choosing one of the option the server will send you one of the pictures. If you choose one option that doesn't exist it will also send you a picture of not found.
