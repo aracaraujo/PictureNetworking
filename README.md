@@ -34,7 +34,7 @@ Now your client is running. After choosing one of the option the server will sen
 
 The link bellow is a demo video of the program running.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Networking Demo Video](https://www.youtube.com/watch?v=DAZPlj2IXug)
 
 # Network Communication
 
