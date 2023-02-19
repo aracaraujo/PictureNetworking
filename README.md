@@ -50,7 +50,7 @@ The program was developed in VS Code and was written in Python. Socket and PIL l
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+These are some helpful links that helped me to build this program.
 * [PIL Tutorial - Geeks For Geeks](https://www.geeksforgeeks.org/python-pillow-tutorial/)
 * [Socket Tutorial - Geeks For Geeks](https://www.geeksforgeeks.org/socket-programming-python/)
 
